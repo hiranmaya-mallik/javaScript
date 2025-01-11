@@ -1,4 +1,4 @@
-// what is object :- we used to stored collection of data. 
+// what is object :-  
 
 
 let user = {
