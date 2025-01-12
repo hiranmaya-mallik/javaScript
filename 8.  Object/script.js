@@ -1,5 +1,3 @@
-// what is object :-  
-
 
 let user = {
     name: 'Hiranmaya Mallik', // here name is key and hiranmaya mallik is value

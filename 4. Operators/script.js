@@ -5,8 +5,8 @@
 
 // operator 
 
-// &&  if one values true and the other values false it returns false in AND operator.
-// ||  if any one value is true and another value is false then it returns true in OR operator.
+// && :- if one values true and the other values false it returns false in AND operator.
+// || :- if any one value is true and another value is false then it returns true in OR operator.
 
 
 

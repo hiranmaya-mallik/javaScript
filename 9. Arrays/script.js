@@ -24,16 +24,16 @@ let fruit2 = ['banana']
 let add = fruit1.concat(fruit2);
 console.log(add)
 
-  // indexOf method :- searching the elements of the array.
+  // indexOf method :- searching the index of the array.
 
   let allFruits = ['apple', 'orange','banana'];
   console.log(allFruits.indexOf('apple'));
 
-  // includes returns this type of fruit present in the array or not.
+  // includes returns, this type of fruit present in the array or not.
 
   console.log(allFruits.includes('water melon'))
 
- // reverse method returns :- the original array revering to the original
+ // reverse method returns :- the original array reversing to the original
 
  console.log(allFruits.reverse())
 
