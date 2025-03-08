@@ -1,0 +1,2 @@
+// block scope refers to the scope of variables that are defind within a specific block , typically enclosed by curly braces
+// global scope refers to the scope of variables that are defind accessable everywhere in the code.

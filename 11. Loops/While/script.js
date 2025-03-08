@@ -18,7 +18,6 @@ let friends = ['Hiranmaya', 'Ranjit', 'Rajesh', 'Tanmay', 'Arjit', 'Deba'];
 //Write a program that repeatedly takes input from the user until they enter the word "stop."
 
 let a = prompt('Please enter the word "stop"')
-
 while(a === 'stop'){
     console.log('Thank You');
     // a = prompt('Please enter the word "stop"');
